@@ -9,3 +9,4 @@
 - [Analyzing NYC High School Data](https://github.com/sidziuk/My_projects/blob/master/Analyzing%20NYC%20High%20School%20Data/Analyzing%20NYC%20High%20School%20Data.ipynb)
 - [Star Wars Survey](https://github.com/sidziuk/My_projects/blob/master/Star%20Wars%20Survey/Star%20Wars%20Survey.ipynb)
 - [Analyzing CIA Factbook Data Using SQLite and Python](https://github.com/sidziuk/My_projects/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQLite%20and%20Python/Analyzing%20CIA%20Factbook%20Data%20Using%20SQLite%20and%20Python.ipynb)
+- [Answering Business Questions using SQL](https://github.com/sidziuk/My_projects/blob/master/Answering%20Business%20Questions%20using%20SQL/Answering%20Business%20Questions%20using%20SQL.ipynb)
