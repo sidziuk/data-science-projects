@@ -4,3 +4,4 @@
 - [Exploring Hacker News Posts](https://github.com/sidziuk/My_projects/blob/master/Exploring%20Hacker%20News%20Posts/Exploring%20Hacker%20News%20Posts.ipynb)
 - [Exploring Ebay Car Sales Data](https://github.com/sidziuk/My_projects/blob/master/Exploring%20Ebay%20Car%20Sales%20Data/Exploring%20Ebay%20Car%20Sales%20Data.ipynb)
 - [Visualizing Earnings Based On College Majors](https://github.com/sidziuk/My_projects/blob/master/Visualizing%20Earnings%20Based%20On%20College%20Majors/Visualizing%20Earnings%20Based%20On%20College%20Majors.ipynb)
+- [Visualizing The Gender Gap In College Degrees](https://github.com/sidziuk/My_projects/blob/master/Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees/Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees.ipynb)
