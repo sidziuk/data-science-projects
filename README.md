@@ -1,5 +1,6 @@
 # Projects list
 
+## Clean, Exploring, Analyze, Visualizing
 - [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/sidziuk/My_projects/blob/master/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb)
 - [Exploring Hacker News Posts](https://github.com/sidziuk/My_projects/blob/master/Exploring%20Hacker%20News%20Posts/Exploring%20Hacker%20News%20Posts.ipynb)
 - [Exploring Ebay Car Sales Data](https://github.com/sidziuk/My_projects/blob/master/Exploring%20Ebay%20Car%20Sales%20Data/Exploring%20Ebay%20Car%20Sales%20Data.ipynb)
@@ -8,7 +9,9 @@
 - [Clean And Analyze Employee Exit Surveys](https://github.com/sidziuk/My_projects/blob/master/Clean%20And%20Analyze%20Employee%20Exit%20Surveys/Clean%20And%20Analyze%20Employee%20Exit%20Surveys.ipynb)
 - [Analyzing NYC High School Data](https://github.com/sidziuk/My_projects/blob/master/Analyzing%20NYC%20High%20School%20Data/Analyzing%20NYC%20High%20School%20Data.ipynb)
 - [Star Wars Survey](https://github.com/sidziuk/My_projects/blob/master/Star%20Wars%20Survey/Star%20Wars%20Survey.ipynb)
+## SQL
 - [Analyzing CIA Factbook Data Using SQLite and Python](https://github.com/sidziuk/My_projects/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQLite%20and%20Python/Analyzing%20CIA%20Factbook%20Data%20Using%20SQLite%20and%20Python.ipynb)
 - [Answering Business Questions using SQL](https://github.com/sidziuk/My_projects/blob/master/Answering%20Business%20Questions%20using%20SQL/Answering%20Business%20Questions%20using%20SQL.ipynb)
 - [Designing and Creating a Database](https://github.com/sidziuk/My_projects/blob/master/Designing%20and%20Creating%20a%20Database/Designing%20and%20Creating%20a%20Database.ipynb)
+## Statistics and Probability
 - [Investigating Fandango Movie Ratings(Statistics)](https://github.com/sidziuk/My_projects/blob/master/Investigating%20Fandango%20Movie%20Ratings(Statistics)/Investigating%20Fandango%20Movie%20Ratings(Statistics).ipynb)
