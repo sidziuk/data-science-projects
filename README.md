@@ -11,3 +11,4 @@
 - [Analyzing CIA Factbook Data Using SQLite and Python](https://github.com/sidziuk/My_projects/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQLite%20and%20Python/Analyzing%20CIA%20Factbook%20Data%20Using%20SQLite%20and%20Python.ipynb)
 - [Answering Business Questions using SQL](https://github.com/sidziuk/My_projects/blob/master/Answering%20Business%20Questions%20using%20SQL/Answering%20Business%20Questions%20using%20SQL.ipynb)
 - [Designing and Creating a Database](https://github.com/sidziuk/My_projects/blob/master/Designing%20and%20Creating%20a%20Database/Designing%20and%20Creating%20a%20Database.ipynb)
+- [Investigating Fandango Movie Ratings(Statistics)](https://github.com/sidziuk/My_projects/blob/master/Investigating%20Fandango%20Movie%20Ratings(Statistics)/Investigating%20Fandango%20Movie%20Ratings(Statistics).ipynb)
