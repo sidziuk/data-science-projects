@@ -1,6 +1,6 @@
 # Projects list
 
-## Clean, Exploring, Analyze, Visualizing
+## Cleaning, Exploring, Analyzing, Visualizing
 - [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/sidziuk/My_projects/blob/master/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb)
 - [Exploring Hacker News Posts](https://github.com/sidziuk/My_projects/blob/master/Exploring%20Hacker%20News%20Posts/Exploring%20Hacker%20News%20Posts.ipynb)
 - [Exploring Ebay Car Sales Data](https://github.com/sidziuk/My_projects/blob/master/Exploring%20Ebay%20Car%20Sales%20Data/Exploring%20Ebay%20Car%20Sales%20Data.ipynb)
