@@ -17,3 +17,4 @@
 - [Investigating Fandango Movie Ratings(Statistics)](https://github.com/sidziuk/My_projects/blob/master/Investigating%20Fandango%20Movie%20Ratings(Statistics)/Investigating%20Fandango%20Movie%20Ratings(Statistics).ipynb)
 - [Finding the Best Markets to Advertise In(Statistics)](https://github.com/sidziuk/My_projects/blob/master/Finding%20the%20Best%20Markets%20to%20Advertise%20In(Statistics)/Finding%20the%20Best%20Markets%20to%20Advertise%20In(Statistics).ipynb)
 - [Mobile App for Lottery Addiction](https://github.com/sidziuk/My_projects/blob/master/Mobile%20App%20for%20Lottery%20Addiction/Mobile%20App%20for%20Lottery%20Addiction.ipynb)
+- [Winning Jeopardy](https://github.com/sidziuk/My_projects/blob/master/Winning%20Jeopardy/Winning%20Jeopardy.ipynb)
