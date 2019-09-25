@@ -20,3 +20,4 @@
 - [Winning Jeopardy](https://github.com/sidziuk/My_projects/blob/master/Winning%20Jeopardy/Winning%20Jeopardy.ipynb)
 ## Machine Learning
 - [Predicting Car Prices](https://github.com/sidziuk/My_projects/blob/master/Predicting%20Car%20Prices/Predicting%20Car%20Prices.ipynb)
+- [Predicting House Sale Prices](https://github.com/sidziuk/My_projects/blob/master/Predicting%20House%20Sale%20Prices/Predicting%20House%20Sale%20Prices.ipynb)
